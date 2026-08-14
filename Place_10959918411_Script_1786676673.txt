@@ -1,0 +1,21 @@
+-- Unable to view source.
+-- Script Path: game:GetService("ReplicatedStorage").StudioLiteFolder.Play321.Workspace.A60Moving.RushNew.Attachment.ParticleEmitter.Script
+-- Reason: The script is not running on client. (attempt to decompile ServerScript or 'Script' with RunContext Server)
+-- Executor: Delta (1.0.733.988)
+ 
+ 
+ 
+while true do
+    script.Parent.Texture = "rbxassetid://11131703032"
+    wait(0.5)
+    script.Parent.Texture = "rbxassetid://1972219024"
+    wait(0.5)
+    script.Parent.Texture = "rbxassetid://1822114127"
+    wait(1)
+    script.Parent.Texture = "rbxassetid://3413871766"
+    wait(0.5)
+    script.Parent.Texture = "rbxassetid://3354536350"
+    wait(1)
+    script.Parent.Texture = "rbxassetid://11131699495"
+    wait(1)
+end
