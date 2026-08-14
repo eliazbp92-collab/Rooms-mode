@@ -94,10 +94,10 @@ entity:SetCallback("OnSpawned", function()
 	camShake:Start()
 	camShake:Shake(CameraShaker.Presets.Earthquake)
 
-	local part = workspace:WaitForChild("A60")
+	local part = workspace:WaitForChild("A60Moving")
 	local object = part:WaitForChild("RushNew")
-	local attachment = object:WaitForChild("cface")
-	local emitter = attachment:FindFirstChild("Face")
+	local attachment = object:WaitForChild("Face")
+	local emitter = attachment:FindFirstChild("Script")
 
 	object.CanCollide = false
 
