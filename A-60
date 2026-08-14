@@ -105,13 +105,20 @@ entity:SetCallback("OnSpawned", function()
 	spawn(function()
 		while running and emitter and emitter:IsDescendantOf(workspace) do
 			local textures = {
-				"rbxassetid://11710144244",
-				"rbxassetid://11710141186",
-				"rbxassetid://11710147820",
-				"rbxassetid://11710154040",
-				"rbxassetid://85326078638635",
-				"rbxassetid://75320719981943",
-				"rbxassetid://7057923079"
+while true do
+    script.Parent.Texture = "rbxassetid://11131703032"
+    wait(0.5)
+    script.Parent.Texture = "rbxassetid://1972219024"
+    wait(0.5)
+    script.Parent.Texture = "rbxassetid://1822114127"
+    wait(1)
+    script.Parent.Texture = "rbxassetid://3413871766"
+    wait(0.5)
+    script.Parent.Texture = "rbxassetid://3354536350"
+    wait(1)
+    script.Parent.Texture = "rbxassetid://11131699495"
+    wait(1)
+end
 			}
 			for _, tex in ipairs(textures) do
 				emitter.Texture = tex
