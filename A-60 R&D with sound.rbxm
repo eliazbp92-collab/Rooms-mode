@@ -1,0 +1,324 @@
+<!-- Saved by UniversalSynSaveInstance (Join to Copy Games) https://discord.gg/wx4ThpAsmw --><roblox version="4"><Meta name="ExplicitAutoJoints">true</Meta><Item class="Model" referent="0"><Properties><CoordinateFrame name="ModelMeshCFrame"><X>0</X><Y>0</Y><Z>0</Z><R00>1</R00><R01>0</R01><R02>0</R02><R10>0</R10><R11>1</R11><R12>0</R12><R20>0</R20><R21>0</R21><R22>1</R22></CoordinateFrame><Vector3 name="ModelMeshSize"><X>0</X><Y>0</Y><Z>0</Z></Vector3><bool name="NeedsPivotMigration">false</bool><float name="ScaleFactor">1</float><OptionalCoordinateFrame name="WorldPivotData"><CFrame><X>-0.5</X><Y>3.253999948501587</Y><Z>-11</Z><R00>1</R00><R01>0</R01><R02>0</R02><R10>0</R10><R11>1</R11><R12>0</R12><R20>0</R20><R21>0</R21><R22>1</R22></CFrame></OptionalCoordinateFrame><BinaryString name="AttributesSerialize"></BinaryString><bool name="DefinesCapabilities">false</bool><string name="Name"><![CDATA[A-60 R&D]]></string><SharedString name="Tags">MTAwMDAwMDAwMDAwMDAwMA==</SharedString></Properties><Item class="Part" referent="1"><Properties><token name="shape">1</token><token name="formFactorRaw">1</token><bool name="Anchored">true</bool><token name="BottomSurface">0</token><CoordinateFrame name="CFrame"><X>-0.5</X><Y>3.253999948501587</Y><Z>-11</Z><R00>1</R00><R01>0</R01><R02>0</R02><R10>0</R10><R11>1</R11><R12>0</R12><R20>0</R20><R21>0</R21><R22>1</R22></CoordinateFrame><bool name="CanCollide">false</bool><Color3uint8 name="Color3uint8">4293256415</Color3uint8><PhysicalProperties name="CustomPhysicalProperties"><CustomPhysics>true</CustomPhysics><Density>0</Density><Friction>0</Friction><Elasticity>0</Elasticity><FrictionWeight>0</FrictionWeight><ElasticityWeight>0</ElasticityWeight><AcousticAbsorption>0</AcousticAbsorption></PhysicalProperties><string name="MaterialVariantSerialized"></string><token name="TopSurface">0</token><float name="Transparency">1</float><Vector3 name="size"><X>6.507999897003174</X><Y>6.507999897003174</Y><Z>6.507999897003174</Z></Vector3><BinaryString name="AttributesSerialize">AgAAAAsAAABTTF9BbmNob3JlZAMBDQAAAFNMX0NhbkNvbGxpZGUDAA==</BinaryString><bool name="DefinesCapabilities">false</bool><string name="Name"><![CDATA[RushNew]]></string><SharedString name="Tags">MTAwMDAwMDAwMDAwMDAwMA==</SharedString></Properties><Item class="Sound" referent="2"><Properties><bool name="Looped">true</bool><float name="PlaybackSpeed">0.6000000238418579</float><bool name="Playing">true</bool><float name="RollOffMaxDistance">100</float><token name="RollOffMode">1</token><Content name="SoundId"><url><![CDATA[rbxassetid://6336173633]]></url></Content><double name="TimePosition">2.602</double><float name="Volume">10</float><BinaryString name="AttributesSerialize"></BinaryString><bool name="DefinesCapabilities">false</bool><string name="Name"><![CDATA[Close]]></string><SharedString name="Tags">MTAwMDAwMDAwMDAwMDAwMA==</SharedString></Properties></Item><Item class="PointLight" referent="3"><Properties><float name="Range">25</float><float name="Brightness">12</float><Color3 name="Color"><R>1</R><G>0</G><B>0</B></Color3><BinaryString name="AttributesSerialize"></BinaryString><bool name="DefinesCapabilities">false</bool><string name="Name"><![CDATA[light]]></string><SharedString name="Tags">MTAwMDAwMDAwMDAwMDAwMA==</SharedString></Properties></Item><Item class="ParticleEmitter" referent="4"><Properties><float name="Brightness">0</float><ColorSequence name="Color">0 0 0 0 0 1 0 0 0 0 </ColorSequence><NumberRange name="Lifetime">0.10000000149011612 0.10000000149011612</NumberRange><bool name="LockedToPart">true</bool><float name="Rate">INF</float><NumberRange name="Rotation">-180 180</NumberRange><token name="Shape">3</token><token name="ShapeInOut">1</token><NumberSequence name="Size">0 8 0 1 8 0 </NumberSequence><NumberRange name="Speed">25 25</NumberRange><Vector2 name="SpreadAngle"><X>360</X><Y>360</Y></Vector2><NumberSequence name="Squash">0 0.05000000074505806 0 0.29999998211860657 -0.03750014305114746 0 0.496610164642334 -0.4499998092651367 0 0.5 0.5249998569488525 0 0.698305070400238 0 0 1 0.05000000074505806 0 </NumberSequence><Content name="Texture"><url><![CDATA[http://www.roblox.com/asset/?id=243728104]]></url></Content><NumberSequence name="Transparency">0 0 0 0.5542373061180115 0.8500000238418579 0 0.6559321880340576 0.9750000238418579 0 1 1 0 </NumberSequence><float name="ZOffset">-1</float><BinaryString name="AttributesSerialize"></BinaryString><bool name="DefinesCapabilities">false</bool><string name="Name"><![CDATA[ink1]]></string><SharedString name="Tags">MTAwMDAwMDAwMDAwMDAwMA==</SharedString></Properties></Item><Item class="Sound" referent="5"><Properties><bool name="Looped">true</bool><float name="PlaybackSpeed">2</float><bool name="Playing">true</bool><float name="RollOffMaxDistance">3.4028234663852886e+38</float><Content name="SoundId"><url><![CDATA[rbxassetid://4903742660]]></url></Content><double name="TimePosition">5.653</double><float name="Volume">10</float><BinaryString name="AttributesSerialize"></BinaryString><bool name="DefinesCapabilities">false</bool><string name="Name"><![CDATA[Static]]></string><SharedString name="Tags">MTAwMDAwMDAwMDAwMDAwMA==</SharedString></Properties><Item class="DistortionSoundEffect" referent="6"><Properties><BinaryString name="AttributesSerialize"></BinaryString><bool name="DefinesCapabilities">false</bool><SharedString name="Tags">MTAwMDAwMDAwMDAwMDAwMA==</SharedString></Properties></Item><Item class="PitchShiftSoundEffect" referent="7"><Properties><float name="Octave">0.5</float><BinaryString name="AttributesSerialize"></BinaryString><bool name="DefinesCapabilities">false</bool><SharedString name="Tags">MTAwMDAwMDAwMDAwMDAwMA==</SharedString></Properties></Item></Item><Item class="Attachment" referent="8"><Properties><CoordinateFrame name="CFrame"><X>0</X><Y>2.119999885559082</Y><Z>0</Z><R00>1</R00><R01>0</R01><R02>0</R02><R10>0</R10><R11>1</R11><R12>0</R12><R20>0</R20><R21>0</R21><R22>1</R22></CoordinateFrame><BinaryString name="AttributesSerialize"></BinaryString><bool name="DefinesCapabilities">false</bool><string name="Name"><![CDATA[FACEMONSTER]]></string><SharedString name="Tags">MTAwMDAwMDAwMDAwMDAwMA==</SharedString></Properties><Item class="ParticleEmitter" referent="9"><Properties><float name="Brightness">0</float><ColorSequence name="Color">0 0 0 0 0 1 0 0 0 0 </ColorSequence><NumberRange name="Lifetime">1 1</NumberRange><bool name="LockedToPart">true</bool><token name="Orientation">3</token><float name="Rate">5</float><NumberRange name="RotSpeed">900 900</NumberRange><NumberRange name="Rotation">-180 180</NumberRange><token name="Shape">3</token><token name="ShapeInOut">1</token><NumberSequence name="Size">0 4 0 0.5593219995498657 10 0 1 10 0 </NumberSequence><NumberRange name="Speed">0.009999999776482582 0.009999999776482582</NumberRange><Vector2 name="SpreadAngle"><X>360</X><Y>360</Y></Vector2><Content name="Texture"><url><![CDATA[http://www.roblox.com/asset/?id=6250126210]]></url></Content><NumberSequence name="Transparency">0 0 0 0.5542373061180115 0.8500000238418579 0 0.6559321880340576 0.9750000238418579 0 1 1 0 </NumberSequence><float name="ZOffset">-1</float><BinaryString name="AttributesSerialize"></BinaryString><bool name="DefinesCapabilities">false</bool><string name="Name"><![CDATA[slash1]]></string><SharedString name="Tags">MTAwMDAwMDAwMDAwMDAwMA==</SharedString></Properties></Item><Item class="BillboardGui" referent="10"><Properties><bool name="Active">true</bool><float name="Brightness">2.5</float><UDim2 name="Size"><XS>9</XS><XO>0</XO><YS>9</YS><YO>0</YO></UDim2><token name="ZIndexBehavior">1</token><BinaryString name="AttributesSerialize"></BinaryString><bool name="DefinesCapabilities">false</bool><SharedString name="Tags">MTAwMDAwMDAwMDAwMDAwMA==</SharedString></Properties><Item class="ImageLabel" referent="11"><Properties><Content name="Image"><url><![CDATA[rbxassetid://77402066733117]]></url></Content><bool name="Active">true</bool><Color3 name="BackgroundColor3"><R>1</R><G>1</G><B>1</B></Color3><float name="BackgroundTransparency">1</float><UDim2 name="Size"><XS>1</XS><XO>0</XO><YS>1</YS><YO>0</YO></UDim2><bool name="Visible">false</bool><BinaryString name="AttributesSerialize"></BinaryString><bool name="DefinesCapabilities">false</bool><string name="Name"><![CDATA[face9]]></string><SharedString name="Tags">MTAwMDAwMDAwMDAwMDAwMA==</SharedString></Properties></Item><Item class="ImageLabel" referent="12"><Properties><Content name="Image"><url><![CDATA[rbxassetid://101149320172695]]></url></Content><bool name="Active">true</bool><Color3 name="BackgroundColor3"><R>1</R><G>1</G><B>1</B></Color3><float name="BackgroundTransparency">1</float><UDim2 name="Size"><XS>1</XS><XO>0</XO><YS>1</YS><YO>0</YO></UDim2><bool name="Visible">false</bool><BinaryString name="AttributesSerialize"></BinaryString><bool name="DefinesCapabilities">false</bool><string name="Name"><![CDATA[face3]]></string><SharedString name="Tags">MTAwMDAwMDAwMDAwMDAwMA==</SharedString></Properties></Item><Item class="ImageLabel" referent="13"><Properties><Content name="Image"><url><![CDATA[rbxassetid://89383143498378]]></url></Content><bool name="Active">true</bool><Color3 name="BackgroundColor3"><R>1</R><G>1</G><B>1</B></Color3><float name="BackgroundTransparency">1</float><UDim2 name="Size"><XS>1</XS><XO>0</XO><YS>1</YS><YO>0</YO></UDim2><BinaryString name="AttributesSerialize"></BinaryString><bool name="DefinesCapabilities">false</bool><string name="Name"><![CDATA[face5]]></string><SharedString name="Tags">MTAwMDAwMDAwMDAwMDAwMA==</SharedString></Properties></Item><Item class="ImageLabel" referent="14"><Properties><Content name="Image"><url><![CDATA[rbxassetid://119574902918117]]></url></Content><bool name="Active">true</bool><Color3 name="BackgroundColor3"><R>1</R><G>1</G><B>1</B></Color3><float name="BackgroundTransparency">1</float><UDim2 name="Size"><XS>1</XS><XO>0</XO><YS>1</YS><YO>0</YO></UDim2><bool name="Visible">false</bool><BinaryString name="AttributesSerialize"></BinaryString><bool name="DefinesCapabilities">false</bool><string name="Name"><![CDATA[face8]]></string><SharedString name="Tags">MTAwMDAwMDAwMDAwMDAwMA==</SharedString></Properties></Item><Item class="ImageLabel" referent="15"><Properties><Content name="Image"><url><![CDATA[rbxassetid://120971194275022]]></url></Content><bool name="Active">true</bool><Color3 name="BackgroundColor3"><R>1</R><G>1</G><B>1</B></Color3><float name="BackgroundTransparency">1</float><UDim2 name="Size"><XS>1</XS><XO>0</XO><YS>1</YS><YO>0</YO></UDim2><bool name="Visible">false</bool><BinaryString name="AttributesSerialize"></BinaryString><bool name="DefinesCapabilities">false</bool><string name="Name"><![CDATA[face2]]></string><SharedString name="Tags">MTAwMDAwMDAwMDAwMDAwMA==</SharedString></Properties></Item><Item class="ImageLabel" referent="16"><Properties><Content name="Image"><url><![CDATA[rbxassetid://138781824273820]]></url></Content><bool name="Active">true</bool><Color3 name="BackgroundColor3"><R>1</R><G>1</G><B>1</B></Color3><float name="BackgroundTransparency">1</float><UDim2 name="Size"><XS>1</XS><XO>0</XO><YS>1</YS><YO>0</YO></UDim2><bool name="Visible">false</bool><BinaryString name="AttributesSerialize"></BinaryString><bool name="DefinesCapabilities">false</bool><string name="Name"><![CDATA[face4]]></string><SharedString name="Tags">MTAwMDAwMDAwMDAwMDAwMA==</SharedString></Properties></Item><Item class="ImageLabel" referent="17"><Properties><Content name="Image"><url><![CDATA[rbxassetid://114094737494407]]></url></Content><bool name="Active">true</bool><Color3 name="BackgroundColor3"><R>1</R><G>1</G><B>1</B></Color3><float name="BackgroundTransparency">1</float><UDim2 name="Size"><XS>1</XS><XO>0</XO><YS>1</YS><YO>0</YO></UDim2><bool name="Visible">false</bool><BinaryString name="AttributesSerialize"></BinaryString><bool name="DefinesCapabilities">false</bool><string name="Name"><![CDATA[face1]]></string><SharedString name="Tags">MTAwMDAwMDAwMDAwMDAwMA==</SharedString></Properties></Item><Item class="ImageLabel" referent="18"><Properties><Content name="Image"><url><![CDATA[rbxassetid://106273817421116]]></url></Content><bool name="Active">true</bool><Color3 name="BackgroundColor3"><R>1</R><G>1</G><B>1</B></Color3><float name="BackgroundTransparency">1</float><UDim2 name="Size"><XS>1</XS><XO>0</XO><YS>1</YS><YO>0</YO></UDim2><bool name="Visible">false</bool><BinaryString name="AttributesSerialize"></BinaryString><bool name="DefinesCapabilities">false</bool><string name="Name"><![CDATA[face7]]></string><SharedString name="Tags">MTAwMDAwMDAwMDAwMDAwMA==</SharedString></Properties></Item><Item class="ImageLabel" referent="19"><Properties><Content name="Image"><url><![CDATA[rbxassetid://81237442044322]]></url></Content><bool name="Active">true</bool><Color3 name="BackgroundColor3"><R>1</R><G>1</G><B>1</B></Color3><float name="BackgroundTransparency">1</float><UDim2 name="Size"><XS>1</XS><XO>0</XO><YS>1</YS><YO>0</YO></UDim2><bool name="Visible">false</bool><BinaryString name="AttributesSerialize"></BinaryString><bool name="DefinesCapabilities">false</bool><string name="Name"><![CDATA[face6]]></string><SharedString name="Tags">MTAwMDAwMDAwMDAwMDAwMA==</SharedString></Properties></Item></Item></Item><Item class="PointLight" referent="20"><Properties><float name="Range">13</float><float name="Brightness">2.555555448832394e+22</float><Color3 name="Color"><R>0</R><G>-1</G><B>-1</B></Color3><BinaryString name="AttributesSerialize"></BinaryString><bool name="DefinesCapabilities">false</bool><string name="Name"><![CDATA[danger]]></string><SharedString name="Tags">MTAwMDAwMDAwMDAwMDAwMA==</SharedString></Properties></Item><Item class="Sound" referent="21"><Properties><Content name="SoundId"><url><![CDATA[rbxassetid://6700552345]]></url></Content><float name="Volume">3.5</float><BinaryString name="AttributesSerialize"></BinaryString><bool name="DefinesCapabilities">false</bool><string name="Name"><![CDATA[Break]]></string><SharedString name="Tags">MTAwMDAwMDAwMDAwMDAwMA==</SharedString></Properties></Item><Item class="Script" referent="22"><Properties><ProtectedString name="Source"><![CDATA[-- Saved by UniversalSynSaveInstance (Join to Copy Games) https://discord.gg/wx4ThpAsmw
+
+-- [FilteringEnabled] Server Scripts are IMPOSSIBLE to save]]></ProtectedString><BinaryString name="AttributesSerialize"></BinaryString><bool name="DefinesCapabilities">false</bool><string name="Name"><![CDATA[Kill]]></string><SharedString name="Tags">MTAwMDAwMDAwMDAwMDAwMA==</SharedString></Properties><Item class="TextBox" referent="23"><Properties><bool name="ClearTextOnFocus">false</bool><Font name="FontFace"><Family><url><![CDATA[rbxasset://fonts/families/Inconsolata.json]]></url></Family><Weight>400</Weight><Style>Normal</Style></Font><bool name="MultiLine">true</bool><Color3 name="PlaceholderColor3"><R>0.6980392336845398</R><G>0.6980392336845398</G><B>0.6980392336845398</B></Color3><bool name="RichText">true</bool><bool name="ShowNativeInput">false</bool><string name="Text"><![CDATA[ 
+ 
+function findNearestTorso(pos)
+    local list = workspace:GetChildren()
+    local torso = nil
+    local dist = 20
+    local temp = nil
+    local human = nil
+    local temp2 = nil
+    for x = 1, #list do
+        temp2 = list[x]
+        if (temp2.className == "Model") and (temp2 ~= script.Parent) then
+            temp = temp2:findFirstChild("HumanoidRootPart")
+            human = temp2:findFirstChild("Humanoid")
+            local isImmune = temp2:GetAttribute("immune")
+ 
+            if (temp ~= nil) and (human ~= nil) and (human.Health > 0) and not temp2:FindFirstChild("Hidden") and not isImmune then
+                if (temp.Position - pos).magnitude < dist and not temp2:FindFirstChild("Hidden") then
+                    torso = temp
+                    dist = (temp.Position - pos).magnitude
+                end
+            end
+        end
+    end
+    return torso
+end
+ 
+ 
+ 
+local can = true
+while true do
+    wait(0)
+    local target = findNearestTorso(script.Parent.Position)
+    if target ~= nil and can == true then
+        can = false
+        target.Parent.Humanoid.Health -= 100
+        local plr = game.Players:GetPlayerFromCharacter(target.Parent)
+        plr.PlayerGui.A60Jumpscare.A60_Frame.Visible = true
+        plr.PlayerGui.A60Jumpscare.A60_Frame.JumpscareScript.Enabled = true
+        wait()
+        can = true
+    end
+ 
+end
+]]></string><Color3 name="TextColor3"><R>0</R><G>0</G><B>0</B></Color3><float name="TextSize">14</float><token name="TextXAlignment">0</token><token name="TextYAlignment">0</token><token name="AutomaticSize">3</token><Color3 name="BackgroundColor3"><R>1</R><G>1</G><B>1</B></Color3><Color3 name="BorderColor3"><R>1</R><G>0.6666666865348816</G><B>0</B></Color3><token name="BorderMode">2</token><int name="BorderSizePixel">0</int><int name="LayoutOrder">2</int><UDim2 name="Position"><XS>0</XS><XO>52</XO><YS>0</YS><YO>0</YO></UDim2><UDim2 name="Size"><XS>1</XS><XO>0</XO><YS>1</YS><YO>0</YO></UDim2><int name="ZIndex">4</int><bool name="AutoLocalize">false</bool><BinaryString name="AttributesSerialize"></BinaryString><bool name="DefinesCapabilities">false</bool><string name="Name"><![CDATA[SL_CodeTextBox]]></string><SharedString name="Tags">MTAwMDAwMDAwMDAwMDAwMA==</SharedString></Properties><Item class="ObjectValue" referent="24"><Properties><Ref name="Value">23</Ref><BinaryString name="AttributesSerialize"></BinaryString><bool name="DefinesCapabilities">false</bool><string name="Name"><![CDATA[SaveChangesTo]]></string><SharedString name="Tags">MTAwMDAwMDAwMDAwMDAwMA==</SharedString></Properties></Item></Item></Item><Item class="Script" referent="25"><Properties><ProtectedString name="Source"><![CDATA[-- Saved by UniversalSynSaveInstance (Join to Copy Games) https://discord.gg/wx4ThpAsmw
+
+-- [FilteringEnabled] Server Scripts are IMPOSSIBLE to save]]></ProtectedString><bool name="Disabled">true</bool><BinaryString name="AttributesSerialize"></BinaryString><bool name="DefinesCapabilities">false</bool><string name="Name"><![CDATA[particleemitter (not recommended)]]></string><SharedString name="Tags">MTAwMDAwMDAwMDAwMDAwMA==</SharedString></Properties><Item class="TextBox" referent="26"><Properties><bool name="ClearTextOnFocus">false</bool><Font name="FontFace"><Family><url><![CDATA[rbxasset://fonts/families/Inconsolata.json]]></url></Family><Weight>400</Weight><Style>Normal</Style></Font><bool name="MultiLine">true</bool><Color3 name="PlaceholderColor3"><R>0.6980392336845398</R><G>0.6980392336845398</G><B>0.6980392336845398</B></Color3><bool name="RichText">true</bool><bool name="ShowNativeInput">false</bool><string name="Text"><![CDATA[while true do
+	script.Parent.ink1:Emit(math.random(10,100))
+	task.wait(0)
+end]]></string><Color3 name="TextColor3"><R>0</R><G>0</G><B>0</B></Color3><float name="TextSize">14</float><token name="TextXAlignment">0</token><token name="TextYAlignment">0</token><token name="AutomaticSize">3</token><Color3 name="BackgroundColor3"><R>1</R><G>1</G><B>1</B></Color3><Color3 name="BorderColor3"><R>1</R><G>0.6666666865348816</G><B>0</B></Color3><token name="BorderMode">2</token><int name="BorderSizePixel">0</int><int name="LayoutOrder">2</int><UDim2 name="Position"><XS>0</XS><XO>52</XO><YS>0</YS><YO>0</YO></UDim2><UDim2 name="Size"><XS>1</XS><XO>0</XO><YS>1</YS><YO>0</YO></UDim2><int name="ZIndex">4</int><bool name="AutoLocalize">false</bool><BinaryString name="AttributesSerialize"></BinaryString><bool name="DefinesCapabilities">false</bool><string name="Name"><![CDATA[SL_CodeTextBox]]></string><SharedString name="Tags">MTAwMDAwMDAwMDAwMDAwMA==</SharedString></Properties><Item class="ObjectValue" referent="27"><Properties><Ref name="Value">26</Ref><BinaryString name="AttributesSerialize"></BinaryString><bool name="DefinesCapabilities">false</bool><string name="Name"><![CDATA[SaveChangesTo]]></string><SharedString name="Tags">MTAwMDAwMDAwMDAwMDAwMA==</SharedString></Properties></Item></Item></Item><Item class="Script" referent="28"><Properties><ProtectedString name="Source"><![CDATA[-- Saved by UniversalSynSaveInstance (Join to Copy Games) https://discord.gg/wx4ThpAsmw
+
+-- https://lua.expert/
+local v1 = require(game:GetService("ReplicatedStorage"):WaitForChild("StudioLiteFolder"):WaitForChild("SLVM")).LuaVM.new(nil, {
+	_VERSION = "SLVM",
+	script = script
+})
+local v2 = script:WaitForChild("SL_CodeTextBox").ContentText:split("\n")
+local v3 = ""
+local v4 = nil
+local v5 = nil
+local v6 = nil
+local v7 = nil
+local v8 = nil
+local v9 = nil
+
+for i = 1, #v2 do
+	local v10, v11
+	local v12 = v2[i]:find("etfenv", 1, true)
+	local v13 = v2[i]:find("--", 1, true)
+
+	if v12 and (not v13 or v12 < v13) then
+		error("@" .. script:GetFullName() .. ":" .. i .. ": Keywords \'setfenv\' and \'getfenv\' not available in Play mode. (But it could work in your published game.)")
+	end
+
+	local v14 = v13
+	local v15 = v2[i]:find("require", 1, true)
+
+	if v15 and (not v14 or v15 < v14) then
+		error("@" .. script:GetFullName() .. ":" .. i .. ": Keyword \'require\' not available in Play mode. (But it could work in your published game.)")
+	end
+
+	if v2[i]:match("[%+%-%*/%.]=") then
+		local v16, v17 = v2[i]:match("(%s*[%d%a%.%[%]_]+%s*)%+=(.*)")
+
+		if v16 and v17 then
+			v2[i] = v16 .. "=" .. v16 .. "+" .. v17
+		end
+
+		local v18, v19 = v2[i]:match("(%s*[%d%a%.%[%]_]+%s*)%-=(.*)")
+
+		if v18 and v19 then
+			v2[i] = v18 .. "=" .. v18 .. "-" .. v19
+		end
+
+		local v20, v21 = v2[i]:match("(%s*[%d%a%.%[%]_]+%s*)%*=(.*)")
+
+		if v20 and v21 then
+			v2[i] = v20 .. "=" .. v20 .. "*" .. v21
+		end
+
+		local v22, v23 = v2[i]:match("(%s*[%d%a%.%[%]_]+%s*)/=(.*)")
+
+		if v22 and v23 then
+			v2[i] = v22 .. "=" .. v22 .. "/" .. v23
+		end
+
+		local v24, v25 = v2[i]:match("(%s*[%d%a%.%[%]_]+%s*)%.%.=(.*)")
+
+		if v24 and v25 then
+			v2[i] = v24 .. "=" .. v24 .. ".." .. v25
+		end
+	end
+
+	v3 = v3 .. "\n" .. v2[i]
+
+	if v4 == nil then
+		local v26, v27 = v2[i]:match("^ *(.-)%.PlayerAdded:Connect(.*)")
+
+		if v26 and v26:find("--", 1, true) then
+			v10 = nil
+			v4 = nil
+		else
+			v10 = v26
+			v4 = v27
+		end
+
+		if v10 then
+			for j = i + 1, #v2 do
+				if #v4 + #v2[j] > 2000 then
+					break
+				end
+
+				v4 = v4 .. "\n" .. v2[j]
+			end
+
+			v4 = v4:match("%b()")
+
+			if v4 == nil or v4 == "" then
+				error("Can\'t find closing parenthesis for \'PlayerAdded:Connect(\'.  In Studio Lite the PlayerAdded inline function can be at most 2000 characters. Suggest using a named function instead of inline function.")
+			end
+		end
+	end
+
+	if v5 == nil then
+		local v28, v29 = v2[i]:match("^ *(.-)%.CharacterAdded:Connect(.*)")
+
+		if v28 and v28:find("--", 1, true) then
+			v11 = nil
+			v5 = nil
+		else
+			v11 = v28
+			v5 = v29
+		end
+
+		if v11 then
+			for k = i + 1, #v2 do
+				if #v5 + #v2[k] > 2000 then
+					break
+				end
+
+				v5 = v5 .. "\n" .. v2[k]
+			end
+
+			v5 = v5:match("%b()")
+
+			if v5 == nil or v5 == "" then
+				error("Can\'t find closing parenthesis for \'CharacterAdded:Connect(\'.  In Studio Lite the CharacterAdded inline function can be at most 2000 characters. Suggest using a named function instead of inline function.")
+			end
+		end
+	end
+end
+
+local v30 = v3
+local ok, result = pcall(function() --[[ Line: 120 | Upvalues: v4 (ref), v6 (ref), v7 (ref), v5 (ref), v8 (ref), v9 (ref), v30 (ref) ]]
+	if not v4 then
+		return
+	end
+
+	local v1, v2 = v4:match("^%(%s*function%s*(%b())(.-)end%)$")
+
+	v6 = v1
+	v7 = v2
+
+	if v2 then
+		v6 = if v6 and #v6 > 2 then v6:sub(2, -2) else "player"
+
+		if not v5 then
+			v30 = v30 .. "\n\n" .. "for _," .. v6 .. " in pairs(game.Players:GetPlayers()) do \n" .. v2 .. "\n end \n"
+
+			return
+		end
+
+		local v3, v42 = v5:match("^%(%s*function%s*(%b())(.-)end%)$")
+
+		v8 = v3
+		v9 = v42
+
+		if not v42 then
+			v30 = v30 .. "\n\n" .. "for _," .. v6 .. " in pairs(game.Players:GetPlayers()) do \n" .. v2 .. "\n" .. "   local c = " .. v6 .. ".Character or " .. v6 .. ".CharacterAdded:Wait() \n" .. v5:sub(2, -2) .. "(c) \n end \n"
+
+			return
+		end
+
+		v8 = if v8 and #v8 > 2 then v8:sub(2, -2) else "char"
+		v30 = v30 .. "\n\n" .. "for _," .. v6 .. " in pairs(game.Players:GetPlayers()) do \n" .. v2 .. "\n" .. "   local " .. v8 .. " = " .. v6 .. ".Character or " .. v6 .. ".CharacterAdded:Wait() \n" .. v42 .. "\n end \n"
+	elseif v5 then
+		local v52, v62 = v5:match("^%(%s*function%s*(%b())(.-)end%)$")
+
+		v8 = v52
+		v9 = v62
+
+		if not v62 then
+			v30 = v30 .. "\n\n" .. "for _,p in pairs(game.Players:GetPlayers()) do \n" .. v4:sub(2, -2) .. "(p) \n" .. "   local c = p.Character or p.CharacterAdded:Wait() \n" .. v5:sub(2, -2) .. "(c) \n end \n"
+
+			return
+		end
+
+		v8 = if v8 and #v8 > 2 then v8:sub(2, -2) else "char"
+		v30 = v30 .. "\n\n" .. "for _,p in pairs(game.Players:GetPlayers()) do \n" .. v4:sub(2, -2) .. "(p) \n" .. "   local " .. v8 .. " = p.Character or p.CharacterAdded:Wait() \n" .. v62 .. "\n end \n"
+	else
+		v30 = v30 .. "\n\n" .. "for _,p in pairs(game.Players:GetPlayers()) do \n" .. v4:sub(2, -2) .. "(p) \n end \n"
+	end
+end)
+
+if not ok then
+	warn("Studio Lite is having trouble with the PlayerAdded or CharacterAdded syntax. Check it for missing parenthsis, or try a different syntax.")
+	warn(result)
+end
+
+wait(0.5)
+
+local v31, v32 = v1:Compile(v30)
+
+if v31 then
+	v31()
+else
+	error(v32)
+end]]></ProtectedString><bool name="Disabled">true</bool><token name="RunContext">2</token><BinaryString name="AttributesSerialize"></BinaryString><bool name="DefinesCapabilities">false</bool><string name="Name"><![CDATA[ScreenShake]]></string><SharedString name="Tags">MTAwMDAwMDAwMDAwMDAwMA==</SharedString></Properties><Item class="TextBox" referent="29"><Properties><bool name="ClearTextOnFocus">false</bool><Font name="FontFace"><Family><url><![CDATA[rbxasset://fonts/families/Inconsolata.json]]></url></Family><Weight>400</Weight><Style>Normal</Style></Font><bool name="MultiLine">true</bool><Color3 name="PlaceholderColor3"><R>0.6980392336845398</R><G>0.6980392336845398</G><B>0.6980392336845398</B></Color3><bool name="RichText">true</bool><bool name="ShowNativeInput">false</bool><string name="Text"><![CDATA[local Player = game.Players.LocalPlayer
+local Character = Player.Character
+local MaxDistance = 200
+local random = Random.new()
+game["Run Service"].RenderStepped:Connect(function()
+	if Character then	
+		local EntityPosToPlayer = (script.Parent.Position - Character.HumanoidRootPart.Position).Magnitude
+		if EntityPosToPlayer < MaxDistance then
+            local Speed = 4
+		    local mathcos = math.cos(os.clock() * 30)
+		    local X = mathcos * Speed / EntityPosToPlayer
+		    local Y = mathcos * Speed / EntityPosToPlayer
+			local Z = mathcos * Speed / EntityPosToPlayer
+			workspace.CurrentCamera.CFrame = workspace.CurrentCamera.CFrame * CFrame.new(random:NextNumber(-X, X),random:NextNumber(-Y, Y),random:NextNumber(-Z, Z)) * CFrame.Angles(random:NextNumber(-X, X),random:NextNumber(-Y, Y),random:NextNumber(-Z, Z))
+	    end
+    end
+end)
+]]></string><Color3 name="TextColor3"><R>0</R><G>0</G><B>0</B></Color3><float name="TextSize">14</float><token name="TextXAlignment">0</token><token name="TextYAlignment">0</token><token name="AutomaticSize">3</token><Color3 name="BackgroundColor3"><R>1</R><G>1</G><B>1</B></Color3><Color3 name="BorderColor3"><R>1</R><G>0.6666666865348816</G><B>0</B></Color3><token name="BorderMode">2</token><int name="BorderSizePixel">0</int><int name="LayoutOrder">2</int><UDim2 name="Position"><XS>0</XS><XO>52</XO><YS>0</YS><YO>0</YO></UDim2><UDim2 name="Size"><XS>1</XS><XO>0</XO><YS>1</YS><YO>0</YO></UDim2><int name="ZIndex">4</int><bool name="AutoLocalize">false</bool><BinaryString name="AttributesSerialize"></BinaryString><bool name="DefinesCapabilities">false</bool><string name="Name"><![CDATA[SL_CodeTextBox]]></string><SharedString name="Tags">MTAwMDAwMDAwMDAwMDAwMA==</SharedString></Properties><Item class="ObjectValue" referent="30"><Properties><Ref name="Value">29</Ref><BinaryString name="AttributesSerialize"></BinaryString><bool name="DefinesCapabilities">false</bool><string name="Name"><![CDATA[SaveChangesTo]]></string><SharedString name="Tags">MTAwMDAwMDAwMDAwMDAwMA==</SharedString></Properties></Item></Item></Item><Item class="Script" referent="31"><Properties><ProtectedString name="Source"><![CDATA[-- Saved by UniversalSynSaveInstance (Join to Copy Games) https://discord.gg/wx4ThpAsmw
+
+-- [FilteringEnabled] Server Scripts are IMPOSSIBLE to save]]></ProtectedString><BinaryString name="AttributesSerialize"></BinaryString><bool name="DefinesCapabilities">false</bool><string name="Name"><![CDATA[face_rng]]></string><SharedString name="Tags">MTAwMDAwMDAwMDAwMDAwMA==</SharedString></Properties><Item class="TextBox" referent="32"><Properties><bool name="ClearTextOnFocus">false</bool><Font name="FontFace"><Family><url><![CDATA[rbxasset://fonts/families/Inconsolata.json]]></url></Family><Weight>400</Weight><Style>Normal</Style></Font><bool name="MultiLine">true</bool><Color3 name="PlaceholderColor3"><R>0.6980392336845398</R><G>0.6980392336845398</G><B>0.6980392336845398</B></Color3><bool name="RichText">true</bool><bool name="ShowNativeInput">false</bool><string name="Text"><![CDATA[while true do
+	script.Parent.FACEMONSTER.BillboardGui.face9.Visible = false
+	script.Parent.FACEMONSTER.BillboardGui.face1.Visible = true
+	wait(0)
+	script.Parent.FACEMONSTER.BillboardGui.face1.Visible = false
+	script.Parent.FACEMONSTER.BillboardGui.face2.Visible = true
+	wait(0)
+	script.Parent.FACEMONSTER.BillboardGui.face2.Visible = false
+	script.Parent.FACEMONSTER.BillboardGui.face3.Visible = true
+	wait(0)
+	script.Parent.FACEMONSTER.BillboardGui.face3.Visible = false
+	script.Parent.FACEMONSTER.BillboardGui.face4.Visible = true
+	wait(0)
+	script.Parent.FACEMONSTER.BillboardGui.face4.Visible = false
+	script.Parent.FACEMONSTER.BillboardGui.face5.Visible = true
+	wait(0)
+	script.Parent.FACEMONSTER.BillboardGui.face5.Visible = false
+	script.Parent.FACEMONSTER.BillboardGui.face6.Visible = true
+	wait(0)
+	script.Parent.FACEMONSTER.BillboardGui.face6.Visible = false
+	script.Parent.FACEMONSTER.BillboardGui.face7.Visible = true
+	wait(0)
+	script.Parent.FACEMONSTER.BillboardGui.face7.Visible = false
+	script.Parent.FACEMONSTER.BillboardGui.face8.Visible = true
+	wait(0)
+	script.Parent.FACEMONSTER.BillboardGui.face8.Visible = false
+	script.Parent.FACEMONSTER.BillboardGui.face9.Visible = true
+	wait(0)
+end]]></string><Color3 name="TextColor3"><R>0</R><G>0</G><B>0</B></Color3><float name="TextSize">14</float><token name="TextXAlignment">0</token><token name="TextYAlignment">0</token><token name="AutomaticSize">3</token><Color3 name="BackgroundColor3"><R>1</R><G>1</G><B>1</B></Color3><Color3 name="BorderColor3"><R>1</R><G>0.6666666865348816</G><B>0</B></Color3><token name="BorderMode">2</token><int name="BorderSizePixel">0</int><int name="LayoutOrder">2</int><UDim2 name="Position"><XS>0</XS><XO>52</XO><YS>0</YS><YO>0</YO></UDim2><UDim2 name="Size"><XS>1</XS><XO>0</XO><YS>1</YS><YO>0</YO></UDim2><int name="ZIndex">4</int><bool name="AutoLocalize">false</bool><BinaryString name="AttributesSerialize"></BinaryString><bool name="DefinesCapabilities">false</bool><string name="Name"><![CDATA[SL_CodeTextBox]]></string><SharedString name="Tags">MTAwMDAwMDAwMDAwMDAwMA==</SharedString></Properties><Item class="ObjectValue" referent="33"><Properties><Ref name="Value">32</Ref><BinaryString name="AttributesSerialize"></BinaryString><bool name="DefinesCapabilities">false</bool><string name="Name"><![CDATA[SaveChangesTo]]></string><SharedString name="Tags">MTAwMDAwMDAwMDAwMDAwMA==</SharedString></Properties></Item></Item></Item></Item></Item><Item class="Script" referent="34"><Properties><string name="Name"><![CDATA[README]]></string><ProtectedString name="Source"><![CDATA[--[[
+		Thank you for using UniversalSynSaveInstance (Join to Copy Games) https://discord.gg/wx4ThpAsmw.
+
+		If you didn't save in Binary (rbxl) - it's recommended to save the game right away to take advantage of the binary format & to preserve values of certain properties if you used IgnoreDefaultProperties setting (as they might change in the future).
+		You can do that by going to FILE -> Save to File As -> Make sure File Name ends with .rbxl -> Save
+
+		ServerStorage, ServerScriptService and Server Scripts are IMPOSSIBLE to save because of FilteringEnabled.
+
+		If your player cannot spawn into the game, please move the scripts in StarterPlayer somewhere else or delete them. Then run `game:GetService("Players").CharacterAutoLoads = true`.
+		And use "Play Here" to start game instead of "Play" to spawn your Character where your Camera currently is.
+
+		If the chat system does not work, please use the explorer and delete everything inside the TextChatService/Chat service(s). 
+		Or run `game:GetService("Chat"):ClearAllChildren() game:GetService("TextChatService"):ClearAllChildren()`
+				
+		If Union and MeshPart collisions don't work, run the script below in the Studio Command Bar:
+				
+				
+		local C = game:GetService("CoreGui")
+		local D = Enum.CollisionFidelity.Default
+				
+		for _, v in game:GetDescendants() do
+			if v:IsA("TriangleMeshPart") and not v:IsDescendantOf(C) then
+				v.CollisionFidelity = D
+			end
+		end
+		print("Done")
+				
+		If you can't move the Camera, run this script in the Studio Command Bar:
+			
+		workspace.CurrentCamera.CameraType = Enum.CameraType.Fixed
+		
+		Or Destroy the Camera.
+
+		This file was generated with the following settings:
+		{"SavePlayerCharacters":true,"SaveBytecode":false,"Callback":false,"ShowStatus":true,"IgnoreDefaultPlayerScripts":true,"NilInstancesFixes":{"BaseWrap":null,"Animator":null,"Attachment":null,"PackageLink":null,"AdPortal":null},"IgnoreList":["CoreGui","CorePackages"],"__DEBUG_MODE":false,"KillAllScripts":true,"DecompileJobless":false,"Decompile":true,"IgnoreNotArchivable":true,"Object":null,"DecompileIgnore":["TextChatService",null,null,null],"IgnoreSpecialProperties":true,"BoostFPS":true,"IsModel":false,"NilInstances":false,"ExtraInstances":[],"ReadMe":true,"OptionsAliasesInverse":{"noscripts":"Decompile","RemovePlayers":"IsolatePlayers","RemovePlayerCharacters":"SavePlayerCharacters"},"OptionsAliases":{"DecompileScripts":"Decompile","timeout":"DecompileTimeout","StatusText":"ShowStatus","SavePlayers":"IsolatePlayers","FileName":"FilePath","SaveCharacters":"SavePlayerCharacters","SaveNilInstances":"NilInstances","IgnoreArchivable":"IgnoreNotArchivable","SaveNonCreatable":"SaveNotCreatable","SaveLocalPlayer":"IsolateLocalPlayer","InstancesBlacklist":"IgnoreList","IsolatePlayerGui":"IsolateLocalPlayer","SavePlayerGui":"IsolateLocalPlayer","IgnoreDefaultProps":"IgnoreDefaultProperties"},"IgnoreSharedStrings":false,"TreatUnionsAsParts":false,"scriptcache":true,"SharedStringOverwrite":false,"AlternativeWritefile":true,"mode":"optimized","SaveCacheInterval":56320,"NotCreatableFixes":["","AdvancedDragger","AnimationTrack","Dragger","Player","PlayerGui","PlayerMouse","PlayerMouse","PlayerScripts","ScreenshotHud","StudioData","TextChatMessage","TextSource","TouchTransmitter","Translator"],"IsolatePlayers":false,"BytecodeTimeout":3,"FilePath":"A-60 R&D with sound.rbxm","IgnoreDefaultProperties":true,"Anonymous":false,"IsolateStarterPlayer":false,"IsolateLocalPlayerCharacter":false,"IgnorePropertiesOfNotScriptsOnScriptsMode":false,"AvoidFileOverwrite":true,"SaveNotCreatable":false,"IsolateLocalPlayer":false,"ShutdownWhenDone":false,"AntiIdle":true,"SafeMode":true,"IgnoreProperties":[],"DecompileTimeout":10}
+
+		Elapsed time: 0.5314587083335027 Date (UTC): 15 August 2026 18:49:39 PlaceId: 10959918411 PlaceVersion: 910 Client Version: 2.733.988 Platform: IOS Executor: Delta 1.0.733.988 arm64
+]]]]></ProtectedString></Properties></Item><SharedStrings><SharedString md5="MTAwMDAwMDAwMDAwMDAwMA=="></SharedString></SharedStrings></roblox><!-- Saved by UniversalSynSaveInstance (Join to Copy Games) https://discord.gg/wx4ThpAsmw -->
