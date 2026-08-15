@@ -146,7 +146,7 @@ entity:SetCallback("OnSpawned", function()
                 spawn(function()
                     while RunService.Heartbeat:Wait() do
                         if RushNew:FindFirstChild("BillboardGui") then
-                            local get = RushNew.BillboardGui:GetChildren()
+                            local get = RushNew.FACEMONSTER.BillboardGui:GetChildren()
                             local Randome = get[math.random(1,#Get)]
                             Part.Main.Face.Texture = Randome.Image
                             wait(Random.new():NextNumber(0,0.02))
