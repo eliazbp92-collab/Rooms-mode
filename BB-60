@@ -261,7 +261,7 @@ entity:SetCallback("OnSpawned", function()
             
             spawn(function()
                 RushNew.Static:Play()
-                RushNew.Static.Pitch = 2
+                RushNew.Static.Pitch = 1
                 while RunService.Heartbeat:Wait() and spawned do
                     if RushNew:FindFirstChild("IMAGEIDS") then
                         local get = RushNew.IMAGEIDS:GetChildren()
